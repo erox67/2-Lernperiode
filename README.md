@@ -5,4 +5,4 @@
 # 30.10.2010
 # Ich wiederhole Funktionen und verschatlungen
 # Ideen Sammeln für ein Projekt
-# Einbisschen am Projetk arbeiten
+# Einbisschen am Projekt arbeiten
