@@ -2,7 +2,9 @@
 # 23.10.2026
 # Ich möchte am Modul 431 arbeiten sodass ich nächste Woche möglichst wenig Stress habe
 # Wenn ich fertig kommen würde, würde für die Prüfung vom Modul 319 lernen
-# 30.10.2010
+# 30.10.2026
 # Ich wiederhole Funktionen und verschatlungen
 # Ideen Sammeln für ein Projekt
 # Einbisschen am Projekt arbeiten
+# 06.11.2026
+# Am Projekt arbeiten also Informieren und Planen
